@@ -1,0 +1,24 @@
+{
+  "name": "UsingInit",
+  "description": "",
+  "main": "",
+  "authors": [
+    "XuanHoang <lexuanhoang1912@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "11549"
+  ],
+  "homepage": "https://github.com/phatntt1999/php_oe45_booking",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
